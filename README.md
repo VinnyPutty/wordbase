@@ -1,7 +1,6 @@
 Wordbase Solver
 ===============
-Developed by James Lin...
-Support by Pranav Jain and Vinay Putreddi.
+Developed by James Lin, Pranav Jain and Vinay Putreddi.
 
 Program is written in Java.
 To run the program, populate the WordBase.in file with your specific game and blocks you own.
