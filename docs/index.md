@@ -15,5 +15,6 @@ layout: default
 
 [Return to projects index](../)
 
-\__________
+<div>__________</div>
+
 For more information, please contact me through my [website](http://www.vinayputreddi.com/#js-panel-224388), [LinkedIn](https://www.linkedin.com/in/vinayputreddi/), or [Twitter](https://twitter.com/VinnyPutty).
