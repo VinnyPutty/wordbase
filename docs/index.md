@@ -9,11 +9,11 @@ layout: default
 
 ### Usage:
 
-1. Enter current board state in <code>Wordbase.in</code> file in the latest version folder
-2. Compile <code>Wordbase.java</code> file from latest version folder and run the generated <code>Wordbase.class</code> file.
+1. Enter current board state in `Wordbase.in` file in the latest version folder
+2. Compile `Wordbase.java` file from latest version folder and run the generated `Wordbase.class` file.
 2. Enter requested information into the terminal.
 
-# Header1
-## Header2
-
 [Return to projects index](../)
+
+\__________
+For more information, please contact me through my [website](http://www.vinayputreddi.com/#js-panel-224388), [LinkedIn](https://www.linkedin.com/in/vinayputreddi/), or [Twitter](https://twitter.com/VinnyPutty).
